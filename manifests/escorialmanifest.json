@@ -1,0 +1,647 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionEscorial-O-II-10/manifests/escorialmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Escorial-O-II-10",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "http://5864a1d0-e51e-43c9-9c30-f6ac320820b9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3cf4c28f-419b-4582-b4c7-640dec76ca6d",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-1",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b8f0b5b9-c995-429c-96fa-7dee58a0b715",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-02",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://3cf4c28f-419b-4582-b4c7-640dec76ca6d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a949072f-372c-4ab3-a67a-bcc737ea5f62",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-2",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://625dfdeb-f14b-4370-9288-cb403fc7fc5e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-03/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-03",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://a949072f-372c-4ab3-a67a-bcc737ea5f62"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://20a20890-9148-4ed5-88f3-2b1006241a27",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-3",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://37de60fd-624c-4902-84e0-20c45c9905ab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-04/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-04",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://20a20890-9148-4ed5-88f3-2b1006241a27"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6a8a5fc5-f237-4982-b183-4129815c941e",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-4",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0d7c8d65-d146-48b4-ba0e-3f8fe3426610",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-05/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-05",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://6a8a5fc5-f237-4982-b183-4129815c941e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b6b20212-bf27-4332-acb9-a6b149df8317",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-5",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://910d37fb-a254-4614-81fe-e627255b25f5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-06/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-06",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://b6b20212-bf27-4332-acb9-a6b149df8317"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ba5018c6-b1ae-4673-9206-b42a9148789c",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-6",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9837e177-9007-47d7-b40c-ca7d008451e7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-07/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-07",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://ba5018c6-b1ae-4673-9206-b42a9148789c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d2f54571-3313-4e84-8583-65f1ea5bb767",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-7",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1512816f-823d-4704-9840-09ac7125e49c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-08/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-08",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://d2f54571-3313-4e84-8583-65f1ea5bb767"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c74f2443-e8a8-4abb-a2b6-dfb3d24912ac",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-8",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c305e8db-1da7-4564-97b5-b55e0739c40e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-09/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-09",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://c74f2443-e8a8-4abb-a2b6-dfb3d24912ac"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b5a590d5-dc8e-4af7-80e5-59024d9f2650",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-9",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fac55ef7-990b-490a-b4e9-260f1d1c53f9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://b5a590d5-dc8e-4af7-80e5-59024d9f2650"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fc56637d-8b01-497d-b7af-1ec12cc45bff",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-10",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0bf77b5-dba0-4b4c-9583-b308cc094b4c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-11",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://fc56637d-8b01-497d-b7af-1ec12cc45bff"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://697acaed-ff3e-46a7-9088-091312e8cce1",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-11",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb9f801a-4fb8-4a1d-b0d9-1d7484495a68",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-12/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-12",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://697acaed-ff3e-46a7-9088-091312e8cce1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://87171117-c7cb-4fd3-81d9-7d0be62f4589",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-12",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dd338a72-9e78-41b6-aa6d-10aefa4b2af8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-13/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-13",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://87171117-c7cb-4fd3-81d9-7d0be62f4589"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://df0a9ce5-0dfb-42ee-9f50-21c5af96d80e",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-13",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://430d724d-02e8-41e8-8fad-eb63e26425a7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-14",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://df0a9ce5-0dfb-42ee-9f50-21c5af96d80e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://80b56866-5edc-4738-b75c-f8a0200aad5b",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-14",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6d4010ba-0b74-4870-824a-82e5d0b7f274",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-15/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-15",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://80b56866-5edc-4738-b75c-f8a0200aad5b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bc3eec8b-442f-421e-92c3-c176c3692c27",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-15",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://20950e82-5f23-4d68-8825-d1e7c37b6573",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-16/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-16",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://bc3eec8b-442f-421e-92c3-c176c3692c27"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://72269a81-6413-4c8c-9148-45fc5fdf4a1e",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-16",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://719a0c91-04d0-4a88-ac00-aabec224f60a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-17/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-17",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://72269a81-6413-4c8c-9148-45fc5fdf4a1e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://170799ff-0c7c-453e-b6c8-91a3b6d0aad2",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-17",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://695efe0c-230c-46a3-9385-94c771168a8c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-18/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-18",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://170799ff-0c7c-453e-b6c8-91a3b6d0aad2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7306fa3b-28c1-46ab-a9d2-255d2719c07c",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-18",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f1308ffd-d1b6-4aa7-bcbc-fee56974abab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-19/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-19",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://7306fa3b-28c1-46ab-a9d2-255d2719c07c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ae72b9d8-7a97-4cb4-8955-2340c3a10081",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-19",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2a4c0772-80fd-487a-bdba-c60908a95918",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-20/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-20",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://ae72b9d8-7a97-4cb4-8955-2340c3a10081"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0d9dc328-d3ea-4f20-aa72-396d88d0cd45",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-20",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f05345ca-587d-42fa-8970-ce4e0d0f3713",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-21/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-21",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://0d9dc328-d3ea-4f20-aa72-396d88d0cd45"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9c92565c-2738-4870-9d3f-e2d57e603fac",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-21",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://396510d0-f09f-4ad7-97cb-215ff4f87ac8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-22/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-22",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://9c92565c-2738-4870-9d3f-e2d57e603fac"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4f476b04-ae81-40d5-9c96-18adf53c0ca0",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-22",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://08e5f4c8-3ad3-4542-9a8c-84d9476e4858",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-23/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-23",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://4f476b04-ae81-40d5-9c96-18adf53c0ca0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4e0953c6-6462-4da6-9ea4-315e0860b5e2",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-23",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fba12856-a9b6-4255-b1a6-8650003bdb18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-24/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-24",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://4e0953c6-6462-4da6-9ea4-315e0860b5e2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ea242bcc-9298-4c3e-a744-e7a365ac3e4d",
+      "@type" : "sc:Canvas",
+      "label" : "escorial-24",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://caa2bbaf-922e-4ba1-8465-9b62bc786cd9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-25/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionEscorial-O-II-10/images/escorial-25",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://ea242bcc-9298-4c3e-a744-e7a365ac3e4d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
