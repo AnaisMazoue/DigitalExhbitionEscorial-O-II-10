@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionEscorial-O-II-10/manifests/escorialmanifest.json",
-    "label" : "Escorial-O-II-10"
-  } ]
+  "items" : [ ]
 }
